@@ -40,4 +40,5 @@ I wrote the whole Code myself on April 17th. In the future i will expand the cod
 
 ### Author
 * [My GitHub Profile](https://github.com/Schlagi80)
-* [FH Campus 02](https://www.campus02.at/)
+* [FH Campus 02](https://www.campus02.at/)exercise1_part3.md
+* [Exercise1 Part3 (Project Summary)](exercise1_part3.md)
