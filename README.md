@@ -3,10 +3,8 @@
 # Exercises
 * [Exercise1 Part1 (Messi)](exercise1_part1.md)
 * [Exercise1 Part2 (Git Befehle)](exercise1_part2.md)
+* [Exercise1 Part3 (Project Summary)](exercise1_part3.md)
 
-<br>
-<br>
-<br>
 
 ## Pyramids 
 
@@ -36,9 +34,7 @@ Then the programm itself encrypts everything.
 
 I wrote the whole Code myself on April 17th. In the future i will expand the code, so the user can have more options.
 
-<br>
 
 ### Author
 * [My GitHub Profile](https://github.com/Schlagi80)
 * [FH Campus 02](https://www.campus02.at/)exercise1_part3.md
-* [Exercise1 Part3 (Project Summary)](exercise1_part3.md)
